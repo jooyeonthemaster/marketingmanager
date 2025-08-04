@@ -1,0 +1,29 @@
+# FastAPI 및 서버 관련
+fastapi==0.104.1
+uvicorn==0.24.0
+
+# 크롤링 및 브라우저 자동화
+playwright==1.52.0
+playwright-stealth==1.0.6
+undetected-playwright==0.3.0
+
+# HTML 파싱 및 데이터 처리
+beautifulsoup4==4.13.4
+lxml==5.4.0
+pandas==2.3.0
+openpyxl==3.1.5
+
+# HTTP 요청 및 유틸리티
+requests==2.32.3
+fake-useragent==2.2.0
+
+# 수학 및 날짜 처리
+numpy==2.3.0
+python-dateutil==2.9.0.post0
+pytz==2025.2
+tzdata==2025.2
+
+# 개발 및 디버깅
+pytest==8.3.4
+pytest-asyncio==0.23.8
+python-dotenv==1.0.1
